@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flex {
+    display: flex;
+}
+
+.nav-bar {
+    margin-top: -1;
+}
+
+
+
+ol {
+    display: flex;
+    flex-direction: row;
+}
+
+a {
+    padding: 100px;
+    text-decoration: none;
+    font-size: larger;
+}
+
+li {
+    list-style-type: none;
+}
+
+.main {
+    margin-top: 50px;
+}
+
+.header {
+    margin: auto;
+}
